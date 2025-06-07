@@ -1,0 +1,19 @@
+{
+  "name": "@repo/tailwind-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "exports":{
+    "./tailwind.config": "./tailwind.config.ts",
+    "./theme.css":"./theme.css"
+  },"files": [
+    "theme.css",
+    "tailwind.config.ts"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

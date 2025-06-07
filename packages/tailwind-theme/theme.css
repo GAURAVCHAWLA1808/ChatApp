@@ -1,0 +1,14 @@
+@layer base {
+    :root {
+      --color-primary: #2563eb;
+      --color-secondary: #9333ea;
+      --color-background: #f9fafb;
+      --color-text: #1f2937;
+    }
+  
+    body {
+      background-color: var(--color-background);
+      color: var(--color-text);
+    }
+  }
+  

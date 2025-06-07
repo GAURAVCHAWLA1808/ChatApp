@@ -14,7 +14,8 @@
     "@repo/ui": "workspace:*",
     "next": "^15.3.0",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "@repo/tailwind-theme":"workspace:*"
   },
   "devDependencies": {
     "@repo/eslint-config": "workspace:*",
@@ -22,7 +23,10 @@
     "@types/node": "^22.15.3",
     "@types/react": "19.1.0",
     "@types/react-dom": "19.1.1",
+    "autoprefixer": "^10.4.21",
     "eslint": "^9.27.0",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^4.1.8",
     "typescript": "5.8.2"
   }
 }

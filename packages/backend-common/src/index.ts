@@ -1,0 +1,1 @@
+export const JWT_SCERET = process.env.JWTSCERET || "123123"
